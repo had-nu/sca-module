@@ -1,2 +1,2 @@
-# sca-module
-Repositório exclusivo para gerenciar a ferramenta de SCA
+# SCA Module
+Repositório exclusivo para gerenciar a ferramenta de SCA do AppSec Toolbox
